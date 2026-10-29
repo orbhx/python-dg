@@ -1,3 +1,8 @@
+# Project: Gamma-Ray Interval Flagging
+# Purpose: Practise pairing depth and gamma-ray data
+# and flagging readings above a specified threshold.
+# Threshold: 80 API (illustrative rule for this exercise)
+
 # Gamma-Ray Interval Flagging
 # Practice project: Python for Digital Geoscience
 
